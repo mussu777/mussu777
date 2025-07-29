@@ -42,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mussu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mussu777" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussu777&&theme=tokyonight" alt="mussu777" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mussu777&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="mussu777" /></p>
 
