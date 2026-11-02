@@ -11,19 +11,19 @@
 
 <p align="left"> <a href="https://twitter.com/mustaq_0521" target="blank"><img src="https://img.shields.io/twitter/follow/mustaq_0521?logo=twitter&style=for-the-badge" alt="mustaq_0521" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Apps**
+- 🔐 Exploring **Cybersecurity, Ethical Hacking & Information Security**
 
-- 🌱 I’m currently learning **DevOps**
+- ☁️ Learning **Cloud Security, AWS Security & Cloud Infrastructure**
 
-- 🤝 I’m looking for help with **Contributing to open-source React Native projects**
+- 🔭 Currently working on **Cybersecurity & Cloud Security Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mussu777](https://github.com/mussu777)
+- 🤝 Open to collaborating on **Cybersecurity and Open-Source Projects**
 
-- 💬 Ask me about **Android, MERN**
+- 📂 Check out my projects: [GitHub](https://github.com/mussu777)
 
-- 📫 How to reach me **mustak65ee@gmail.com**
+- 📫 Reach me at **mustak65ee@gmail.com**
 
-- 📄 Know about my experiences [https://mustaks-portfolio.netlify.app/](https://mustaks-portfolio.netlify.app/)
+- 🌐 Portfolio: [mustaks-portfolio.netlify.app](https://mustaks-portfolio.netlify.app)
 
 - ⚡ Fun fact **I am funny**
 
@@ -31,7 +31,6 @@
 <p align="left">
 <a href="https://X.com/mustaq_0521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mustaq_0521" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mustak-mussu1729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mustak-mussu1729" height="30" width="40" /></a>
-<a href="https://www.instagram.com/imansari1729_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/imansari1729_/" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/mussu_777/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mussu_777/" height="30" width="40" /></a>
 </p>
 
